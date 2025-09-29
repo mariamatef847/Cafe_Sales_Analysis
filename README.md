@@ -10,9 +10,13 @@ This project analyzes sales data from Brew &amp; Bean Café to provide insights 
 	•	Contribution of each product to total morning revenue.
 	•	Insights into customer preferences for breakfast and coffee items.
 ![Overview](Overview.png)
+
 ![Top Morning Product Dashboard](Top%20Morning%20Product%20Dashboard.png)
+
 ![Tooltip1](Top%20Morning%20Product%20Dashboard%20T1.png)
+
 ![Tooltip2](Top%20Morning%20Product%20Dashboard%20T2.png)
+
 [Dashboard 1 - Top Morning Products](Brew%20&%20Bean%20Café.pbix)
 
 ## Weekday vs. Weekend Customer Spend
