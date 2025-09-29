@@ -38,7 +38,7 @@ This project analyzes sales data from Brew &amp; Bean Café to provide insights 
 	•	Comparison of sales before vs after campaign launch.
 	•	Uplift in revenue and customer adoption of combos.
 	•	Clear visualization of campaign ROI and overall impact.
-![Overview3](Overview3.png)
+![Overview3](overview3.png)
 
 ![Morning Compo Campgains Impact](Morning%20Compo%20Campgains%20Impact.png)
 
