@@ -26,7 +26,9 @@ This project analyzes sales data from Brew &amp; Bean Café to provide insights 
 	•	Customer visit patterns across weekdays vs weekends.
 	•	Key insights into which days drive higher revenue and customer engagement.
 ![Overview](Overview2.png)
+
 ![Customer Spend Analysis by Day Type](Customer%20Spend%20Analysis%20by%20Day%20Type.png)
+
 [Dashboard 2 - Weekday Vs Weekend Pend](Brew-&-Bean-Café2%20(1).pbix")
 
 
@@ -37,8 +39,11 @@ This project analyzes sales data from Brew &amp; Bean Café to provide insights 
 	•	Uplift in revenue and customer adoption of combos.
 	•	Clear visualization of campaign ROI and overall impact.
 ![Overview](Overview3.png)
+
 ![Morning Compo Campgains Impact](Morning%20Compo%20Campgains%20Impact.png)
+
 [Dashboard 3 - Morning Compo Campaign](Brew-&-Bean-Café3.pbix)
+
 ## Data Modeling
 ![Modeling](Modeling.png)
 
